@@ -25,6 +25,7 @@ Lec.WebAb(10);
 Lec.JavAb(8);
 Lec.ItAb(7);
 
+
     
 System.out.println("***********************************************************************************");
 Lectures Lec2=new Lectures();
